@@ -18,5 +18,6 @@ I have done bellow functionality
  - delete user(confirmation window there before delete)
  - update user which option given in user details page
  - all route for user implement in App file
+ - created custome and reusable pagination component.
  - done validation for username and email(username- required capital letter or upper letter and length less then 10 character)
  -
